@@ -15,4 +15,18 @@
 
   body {
     display: flex;
-  }  
+  }
+
+  .cover {
+    width: 40%;
+    position: absolute;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10px;
+  }
+
+  .a {
+
+    background-color: none;
+
+  }
