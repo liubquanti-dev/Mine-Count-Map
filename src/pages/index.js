@@ -19,8 +19,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Сайт`}
-      description="Офіційний сайт Minecraft сервера Mine Count.">
+      title={`Мапа`}
+      description="Динамічна мапа Minecraft сервера Mine Count.">
       <HomepageHeader />
     </Layout>
   );

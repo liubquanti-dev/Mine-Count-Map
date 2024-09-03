@@ -51,10 +51,12 @@ const config = {
     ({
       image: 'img/logo-background.png',
       navbar: {
-        title: 'Mine Count Map',
+        title: 'Mine Count',
         logo: {
           alt: 'Mine Count Logo',
           src: 'img/logo-small.png',
+          href: 'https://mcount.fun/',
+          target: '_self',
         },
         items: [
           {
@@ -67,6 +69,12 @@ const config = {
             to: 'https://wiki.mcount.fun/blog/',
             target: '_self',
             label: 'Блог',
+            position: 'left'
+          },
+          {
+            to: '/',
+            target: '_self',
+            label: 'Мапа',
             position: 'left'
           },
           {
