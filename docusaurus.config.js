@@ -5,11 +5,11 @@ const config = {
   tagline: 'Безкоштовний публічний Minecraft сервер',
   favicon: 'img/favicon.png',
 
-  url: 'https://mcount.fun',
+  url: 'https://map.mcount.fun',
   baseUrl: '/',
 
   organizationName: 'White-Heart-Dev',
-  projectName: 'mine-count-site',
+  projectName: 'mine-count-map',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -51,7 +51,7 @@ const config = {
     ({
       image: 'img/logo-background.png',
       navbar: {
-        title: 'Mine Count',
+        title: 'Mine Count Map',
         logo: {
           alt: 'Mine Count Logo',
           src: 'img/logo-small.png',

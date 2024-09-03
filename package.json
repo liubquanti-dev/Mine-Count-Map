@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mcount.fun",
-  "name": "mine-count-site",
+  "homepage": "https://map.mcount.fun",
+  "name": "mine-count-map",
   "version": "0.0.0",
   "private": true,
   "scripts": {
