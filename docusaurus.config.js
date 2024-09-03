@@ -78,6 +78,11 @@ const config = {
             position: 'left'
           },
           {
+            to: 'http://89.35.49.91:25569/',
+            label: 'Мапа не працює?',
+            position: 'right'
+          },
+          {
 						href: 'https://github.com/liubquanti-dev/Mine-Count-Site',
 						className: 'navbar-item-github',
 						position: 'right',
