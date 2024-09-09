@@ -88,7 +88,7 @@ const config = {
             position: 'right'
           },
           {
-						href: 'https://github.com/liubquanti-dev/Mine-Count-Site',
+						href: 'https://github.com/liubquanti-dev/Mine-Count-Map',
 						className: 'navbar-item-github',
 						position: 'right',
 					},
