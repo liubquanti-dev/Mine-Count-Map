@@ -88,6 +88,11 @@ const config = {
             position: 'right'
           },
           {
+						href: 'https://stats.uptimerobot.com/NowpAIVNnk',
+						className: 'navbar-item-uptimerobot',
+						position: 'right',
+					},
+          {
 						href: 'https://github.com/liubquanti-dev/Mine-Count-Map',
 						className: 'navbar-item-github',
 						position: 'right',
