@@ -83,7 +83,7 @@ const config = {
             position: 'left'
           },
           {
-            to: 'http://89.35.49.91:25569/',
+            to: 'http://89.35.49.83:19199/',
             label: 'Мапа не працює?',
             position: 'right'
           },

@@ -10,7 +10,7 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-  <iframe src="https://map-proxy.doroleijn.workers.dev/" style={{width: '100%', height: 'calc(100vh - 60px)'}}>
+  <iframe src="http://89.35.49.83:19199/" style={{width: '100%', height: 'calc(100vh - 60px)'}}>
   </iframe>
   );
 }
