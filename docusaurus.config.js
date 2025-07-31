@@ -5,7 +5,7 @@ const config = {
   tagline: 'Безкоштовний публічний Minecraft сервер',
   favicon: 'img/favicon.png',
 
-  url: 'https://map.mcount.fun',
+  url: 'https://mcountmap.liubquanti.click',
   baseUrl: '/',
 
   organizationName: 'White-Heart-Dev',
@@ -60,18 +60,18 @@ const config = {
         logo: {
           alt: 'Mine Count Logo',
           src: 'img/logo-small.png',
-          href: 'https://mcount.fun/',
+          href: 'https://mcount.liubquanti.click/',
           target: '_self',
         },
         items: [
           {
-            to: 'https://wiki.mcount.fun/',
+            to: 'https://mcountwiki.liubquanti.click/',
             position: 'left',
             label: 'Вікі',
             target: '_self',
           },
           {
-            to: 'https://wiki.mcount.fun/blog/',
+            to: 'https://mcountwiki.liubquanti.click/blog/',
             target: '_self',
             label: 'Блог',
             position: 'left'
